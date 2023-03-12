@@ -1,6 +1,6 @@
-package nft.traderplace.security.config;
+package nft.traderplace.core.security.config;
 
-import nft.traderplace.security.token.TokenRepository;
+import nft.traderplace.core.security.token.TokenRepository;
 import jakarta.servlet.FilterChain;
 import jakarta.servlet.ServletException;
 import jakarta.servlet.http.HttpServletRequest;

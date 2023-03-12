@@ -1,6 +1,6 @@
-package nft.traderplace.security.config;
+package nft.traderplace.core.security.config;
 
-import nft.traderplace.security.user.UserRepository;
+import nft.traderplace.core.security.user.UserRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

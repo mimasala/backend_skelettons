@@ -1,6 +1,6 @@
-package nft.traderplace.security.token;
+package nft.traderplace.core.security.token;
 
-import nft.traderplace.security.user.User;
+import nft.traderplace.core.security.user.User;
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
 import jakarta.persistence.EnumType;

@@ -1,4 +1,4 @@
-package nft.traderplace.security.auth;
+package nft.traderplace.core.security.auth;
 
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.ResponseEntity;

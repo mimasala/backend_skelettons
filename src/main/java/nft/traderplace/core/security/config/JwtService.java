@@ -1,4 +1,4 @@
-package nft.traderplace.security.config;
+package nft.traderplace.core.security.config;
 
 import io.jsonwebtoken.Claims;
 import io.jsonwebtoken.Jwts;

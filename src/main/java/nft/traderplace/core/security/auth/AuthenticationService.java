@@ -1,12 +1,12 @@
-package nft.traderplace.security.auth;
+package nft.traderplace.core.security.auth;
 
-import nft.traderplace.security.config.JwtService;
-import nft.traderplace.security.token.Token;
-import nft.traderplace.security.token.TokenRepository;
-import nft.traderplace.security.token.TokenType;
-import nft.traderplace.security.user.Role;
-import nft.traderplace.security.user.User;
-import nft.traderplace.security.user.UserRepository;
+import nft.traderplace.core.security.config.JwtService;
+import nft.traderplace.core.security.token.Token;
+import nft.traderplace.core.security.token.TokenRepository;
+import nft.traderplace.core.security.token.TokenType;
+import nft.traderplace.core.security.user.Role;
+import nft.traderplace.core.security.user.User;
+import nft.traderplace.core.security.user.UserRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.security.authentication.AuthenticationManager;
 import org.springframework.security.authentication.UsernamePasswordAuthenticationToken;
