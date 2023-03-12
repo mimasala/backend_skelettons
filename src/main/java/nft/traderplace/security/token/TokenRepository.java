@@ -1,4 +1,4 @@
-package com.alibou.security.token;
+package nft.traderplace.security.token;
 
 import java.util.List;
 import java.util.Optional;

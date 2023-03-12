@@ -1,12 +1,12 @@
-package com.alibou.security.auth;
+package nft.traderplace.security.auth;
 
-import com.alibou.security.config.JwtService;
-import com.alibou.security.token.Token;
-import com.alibou.security.token.TokenRepository;
-import com.alibou.security.token.TokenType;
-import com.alibou.security.user.Role;
-import com.alibou.security.user.User;
-import com.alibou.security.user.UserRepository;
+import nft.traderplace.security.config.JwtService;
+import nft.traderplace.security.token.Token;
+import nft.traderplace.security.token.TokenRepository;
+import nft.traderplace.security.token.TokenType;
+import nft.traderplace.security.user.Role;
+import nft.traderplace.security.user.User;
+import nft.traderplace.security.user.UserRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.security.authentication.AuthenticationManager;
 import org.springframework.security.authentication.UsernamePasswordAuthenticationToken;

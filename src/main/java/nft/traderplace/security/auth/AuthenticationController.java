@@ -1,4 +1,4 @@
-package com.alibou.security.auth;
+package nft.traderplace.security.auth;
 
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.ResponseEntity;

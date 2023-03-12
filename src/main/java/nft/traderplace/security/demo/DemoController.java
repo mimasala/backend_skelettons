@@ -1,4 +1,4 @@
-package com.alibou.security.demo;
+package nft.traderplace.security.demo;
 
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;

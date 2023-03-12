@@ -1,6 +1,6 @@
-package com.alibou.security.user;
+package nft.traderplace.security.user;
 
-import com.alibou.security.token.Token;
+import nft.traderplace.security.token.Token;
 import jakarta.persistence.Entity;
 import jakarta.persistence.EnumType;
 import jakarta.persistence.Enumerated;

@@ -1,4 +1,4 @@
-package com.alibou.security.user;
+package nft.traderplace.security.user;
 
 public enum Role {
 

@@ -1,4 +1,4 @@
-package com.alibou.security.user;
+package nft.traderplace.security.user;
 
 import java.util.Optional;
 import org.springframework.data.jpa.repository.JpaRepository;
