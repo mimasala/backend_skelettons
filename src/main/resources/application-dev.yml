@@ -1,0 +1,4 @@
+ACCESS_TOKEN_PRIVATE_PATH: "tokens/access-token-private.key"
+REFRESH_TOKEN_PRIVATE_PATH: "tokens/refresh-token-private.key"
+ACCESS_TOKEN_PUBLIC_PATH: "tokens/access-token-public.key"
+REFRESH_TOKEN_PUBLIC_PATH: "tokens/refresh-token-public.key"

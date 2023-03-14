@@ -13,3 +13,9 @@ spring:
         format_sql: true
     database: postgresql
     database-platform: org.hibernate.dialect.PostgreSQLDialect
+access-token:
+  private: ${ACCESS_TOKEN_PRIVATE_PATH}
+  public: ${ACCESS_TOKEN_PUBLIC_PATH}
+refresh-token:
+    private: ${REFRESH_TOKEN_PRIVATE_PATH}
+    public: ${REFRESH_TOKEN_PUBLIC_PATH}
